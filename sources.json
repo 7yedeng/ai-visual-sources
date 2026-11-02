@@ -1,0 +1,2103 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-02",
+  "scope": "upstream-links-only",
+  "repository": "https://github.com/7yedeng/ai-visual-sources",
+  "archivePage": "https://anagnoraxis.com/research/ai-visual/",
+  "categories": [
+    {
+      "id": "image-prompts",
+      "title": "生图案例与提示词"
+    },
+    {
+      "id": "video-and-feeds",
+      "title": "视频与综合素材流"
+    },
+    {
+      "id": "tools-and-skills",
+      "title": "提示词工具与 Skill"
+    },
+    {
+      "id": "product-browsers",
+      "title": "产品浏览入口"
+    },
+    {
+      "id": "authors-and-posts",
+      "title": "作者与原帖"
+    }
+  ],
+  "sources": [
+    {
+      "id": "freestylefly--awesome-gpt-image-2",
+      "type": "github-repository",
+      "category": "image-prompts",
+      "title": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "summary": "GPT Image 提示词、案例与模板。",
+      "tags": [
+        "GPT Image",
+        "生图",
+        "案例",
+        "模板"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "referenceUrls": [
+          "https://github.com/freestylefly/awesome-gpt-image-2/blob/b93c18ad45397c828fcc39a1ed347830433b3de4/data/cases.json"
+        ]
+      },
+      "verification": {
+        "status": "public-repository-confirmed",
+        "checkedAt": "2026-11-02",
+        "method": "github-rest-repository-metadata",
+        "archived": false,
+        "disabled": false,
+        "scope": "Repository visibility and metadata only; content and media not re-audited."
+      }
+    },
+    {
+      "id": "youmind-openlab--awesome-gpt-image-2",
+      "type": "github-repository",
+      "category": "image-prompts",
+      "title": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
+      "summary": "GPT Image 提示词及案例导航。",
+      "tags": [
+        "GPT Image",
+        "生图",
+        "案例"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "referenceUrls": [
+          "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/b324c5b2cb9b23ead2693dcc3b89eb6ca547eb90/README.md"
+        ]
+      },
+      "verification": {
+        "status": "public-repository-confirmed",
+        "checkedAt": "2026-11-02",
+        "method": "github-rest-repository-metadata",
+        "archived": false,
+        "disabled": false,
+        "scope": "Repository visibility and metadata only; content and media not re-audited."
+      }
+    },
+    {
+      "id": "dongyubin--awesome-ai-images-prompts",
+      "type": "github-repository",
+      "category": "image-prompts",
+      "title": "dongyubin/Awesome-AI-Images-Prompts",
+      "url": "https://github.com/dongyubin/Awesome-AI-Images-Prompts",
+      "summary": "多模型 AI 生图提示词合集。",
+      "tags": [
+        "多模型",
+        "生图",
+        "提示词"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "referenceUrls": [
+          "https://github.com/dongyubin/Awesome-AI-Images-Prompts/blob/b4467b0e2215b735e45f93b9950305400a1c1530/README.md"
+        ]
+      },
+      "verification": {
+        "status": "public-repository-confirmed",
+        "checkedAt": "2026-11-02",
+        "method": "github-rest-repository-metadata",
+        "archived": false,
+        "disabled": false,
+        "scope": "Repository visibility and metadata only; content and media not re-audited."
+      }
+    },
+    {
+      "id": "songguoxs--gpt4o-image-prompts",
+      "type": "github-repository",
+      "category": "image-prompts",
+      "title": "songguoxs/gpt4o-image-prompts",
+      "url": "https://github.com/songguoxs/gpt4o-image-prompts",
+      "summary": "GPT 与 Nano Banana 等图像提示词合集。",
+      "tags": [
+        "GPT",
+        "Nano Banana",
+        "生图",
+        "提示词"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "referenceUrls": [
+          "https://github.com/songguoxs/gpt4o-image-prompts/blob/c282b673debc8ddb31258c0474228774a628069d/data/prompts.json"
+        ]
+      },
+      "verification": {
+        "status": "public-repository-confirmed",
+        "checkedAt": "2026-11-02",
+        "method": "github-rest-repository-metadata",
+        "archived": false,
+        "disabled": false,
+        "scope": "Repository visibility and metadata only; content and media not re-audited."
+      }
+    },
+    {
+      "id": "learnprompt--awesome-seedance",
+      "type": "github-repository",
+      "category": "video-and-feeds",
+      "title": "LearnPrompt/awesome-seedance",
+      "url": "https://github.com/LearnPrompt/awesome-seedance",
+      "summary": "Seedance 视频案例、提示词与工作流。",
+      "tags": [
+        "Seedance",
+        "视频",
+        "工作流"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "referenceUrls": [
+          "https://github.com/LearnPrompt/awesome-seedance/blob/f941f80e81a48396f309c271964e0bd0faeec271/data/cases.json"
+        ]
+      },
+      "verification": {
+        "status": "public-repository-confirmed",
+        "checkedAt": "2026-11-02",
+        "method": "github-rest-repository-metadata",
+        "archived": false,
+        "disabled": false,
+        "scope": "Repository visibility and metadata only; content and media not re-audited."
+      }
+    },
+    {
+      "id": "hanyuyu--visual-prompt-feed",
+      "type": "github-repository",
+      "category": "video-and-feeds",
+      "title": "Hanyuyu/visual-prompt-feed",
+      "url": "https://github.com/Hanyuyu/visual-prompt-feed",
+      "summary": "图像、视频提示词素材流与原帖来源。",
+      "tags": [
+        "图像",
+        "视频",
+        "X",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "referenceUrls": [
+          "https://github.com/Hanyuyu/visual-prompt-feed/blob/8903ad7d950a04728901272b67534cd77624fe91/data/prompts.json"
+        ]
+      },
+      "verification": {
+        "status": "public-repository-confirmed",
+        "checkedAt": "2026-11-02",
+        "method": "github-rest-repository-metadata",
+        "archived": false,
+        "disabled": false,
+        "scope": "Repository visibility and metadata only; content and media not re-audited."
+      }
+    },
+    {
+      "id": "eddietyp--image-prompt-library",
+      "type": "github-repository",
+      "category": "tools-and-skills",
+      "title": "EddieTYP/image-prompt-library",
+      "url": "https://github.com/EddieTYP/image-prompt-library",
+      "summary": "本地提示词库、标签与收藏组织工具。",
+      "tags": [
+        "工具",
+        "本地",
+        "标签",
+        "提示词"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "referenceUrls": [
+          "https://github.com/EddieTYP/image-prompt-library/blob/92fc666d670472b0b51806a0e61ff64fab6e34d3/sample-data/manifests/awesome-gpt-image-2/zh_hant.json"
+        ]
+      },
+      "verification": {
+        "status": "public-repository-confirmed",
+        "checkedAt": "2026-11-02",
+        "method": "github-rest-repository-metadata",
+        "archived": false,
+        "disabled": false,
+        "scope": "Repository visibility and metadata only; content and media not re-audited."
+      }
+    },
+    {
+      "id": "youmind-openlab--ai-image-prompts-skill",
+      "type": "github-repository",
+      "category": "tools-and-skills",
+      "title": "YouMind-OpenLab/ai-image-prompts-skill",
+      "url": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
+      "summary": "多模型图像提示词与 Skill 入口。",
+      "tags": [
+        "多模型",
+        "Skill",
+        "提示词"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "referenceUrls": [
+          "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/09bb92d8c50b13e2fb9469d9b2c42311930d3ef7/references/others.json"
+        ]
+      },
+      "verification": {
+        "status": "public-repository-confirmed",
+        "checkedAt": "2026-11-02",
+        "method": "github-rest-repository-metadata",
+        "archived": false,
+        "disabled": false,
+        "scope": "Repository visibility and metadata only; content and media not re-audited."
+      }
+    },
+    {
+      "id": "wuyoscar--gpt-image2-skill",
+      "type": "github-repository",
+      "category": "tools-and-skills",
+      "title": "wuyoscar/GPT-Image2-Skill",
+      "url": "https://github.com/wuyoscar/GPT-Image2-Skill",
+      "summary": "图像提示词案例、Skill 与 CLI 入口。",
+      "tags": [
+        "GPT Image",
+        "Skill",
+        "CLI"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "referenceUrls": [
+          "https://github.com/wuyoscar/GPT-Image2-Skill/blob/9f8aa1a44a4a5c0f5a5d6e45eed564b3e2d5b87f/skills/gpt-image/references/gallery-anime-and-manga.md"
+        ]
+      },
+      "verification": {
+        "status": "public-repository-confirmed",
+        "checkedAt": "2026-11-02",
+        "method": "github-rest-repository-metadata",
+        "archived": false,
+        "disabled": false,
+        "scope": "Repository visibility and metadata only; content and media not re-audited."
+      }
+    },
+    {
+      "id": "canghe-gpt-image-2",
+      "type": "product",
+      "category": "product-browsers",
+      "title": "苍何 GPT Image 2",
+      "url": "https://gpt-image2.canghe.ai/",
+      "summary": "原项目指定的产品参考入口。",
+      "tags": [
+        "产品参考",
+        "GPT Image"
+      ],
+      "provenance": {
+        "type": "original-project-reference",
+        "referenceUrls": [
+          "https://gpt-image2.canghe.ai/"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Original project URL preserved; availability and page contents not rechecked in this migration."
+      }
+    },
+    {
+      "id": "x-miles-mazy",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "Miles Mazy",
+      "url": "https://x.com/miles_mazy",
+      "summary": "保留原项目指定的作者与参考帖子入口。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "original-project-reference",
+        "referenceUrls": [
+          "https://x.com/miles_mazy/status/2097717048055054670"
+        ],
+        "collection": "direct-public-sources"
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Profile and original post URLs retained; thread contents and current availability not rechecked."
+      }
+    },
+    {
+      "id": "x-john-my07",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "John",
+      "url": "https://x.com/john_my07",
+      "summary": "旧公开影像库中纸雕旅行案例的作者与原帖入口。",
+      "tags": [
+        "X",
+        "作者",
+        "纸雕",
+        "旅行"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "referenceUrls": [
+          "https://x.com/john_my07/status/2091408386466214031",
+          "https://github.com/freestylefly/awesome-gpt-image-2/blob/b93c18ad45397c828fcc39a1ed347830433b3de4/docs/gallery-part-2.md#case-527"
+        ],
+        "collection": "direct-public-sources"
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Original public source links retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-94vanai",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@94vanai",
+      "url": "https://x.com/94vanai",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/94vanAI/status/2104493445662564701"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-aehyok",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@aehyok",
+      "url": "https://x.com/aehyok",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/aehyok/status/2091678335332123004"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-ai-jasonyu",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@ai_jasonyu",
+      "url": "https://x.com/ai_jasonyu",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/AI_Jasonyu/status/2092620142354010593"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-aiexplorertim",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@aiexplorertim",
+      "url": "https://x.com/aiexplorertim",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/AIExplorerTim/status/2090964926986928333"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-alanblogsooooo",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@alanblogsooooo",
+      "url": "https://x.com/alanblogsooooo",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/alanblogsooooo/status/2089652726573768866"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-alupbn121",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@alupbn121",
+      "url": "https://x.com/alupbn121",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/alupbn121/status/2069986363550863728"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-animechats",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@animechats",
+      "url": "https://x.com/animechats",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/AnimeChats/status/2098311184319648247"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-aomyying",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@aomyying",
+      "url": "https://x.com/aomyying",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/AomyYing/status/2102976136162775095"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-belltyler",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@belltyler",
+      "url": "https://x.com/belltyler",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/belltyler/status/2094799813606883808"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-bepascal-",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@bepascal_",
+      "url": "https://x.com/bepascal_",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/bePascal_/status/2070543554569462007"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-better-christal",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@better_christal",
+      "url": "https://x.com/better_christal",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/better_christal/status/2071587066539024435"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-bugvytv",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@bugvytv",
+      "url": "https://x.com/bugvytv",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/bugvytv/status/2094623357971075381"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-chengyi3629",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@chengyi3629",
+      "url": "https://x.com/chengyi3629",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/ChengYi3629/status/2028130579645190656"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-chisatolikeme",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@chisatolikeme",
+      "url": "https://x.com/chisatolikeme",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/chisatolikeme/status/2098332942821150768"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-cnyzgkc",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@cnyzgkc",
+      "url": "https://x.com/cnyzgkc",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/cnyzgkc/status/2100101909634036032"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-czhan7-sz",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@czhan7_sz",
+      "url": "https://x.com/czhan7_sz",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/czhan7_sz/status/2089640603604877743"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-ddjcxx",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@ddjcxx",
+      "url": "https://x.com/ddjcxx",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/DDJCXX/status/2099734571160109190"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-dotey",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@dotey",
+      "url": "https://x.com/dotey",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/dotey/status/2103685978263064820"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-fskrufskru",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@fskrufskru",
+      "url": "https://x.com/fskrufskru",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/FskruFskru/status/2098339428263481757"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-garyzheng116",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@garyzheng116",
+      "url": "https://x.com/garyzheng116",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/GaryZheng116/status/2105800176279699754"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-gengdaj",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@gengdaj",
+      "url": "https://x.com/gengdaj",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/gengdaJ/status/2100772120200704438"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-gittrend0x",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@gittrend0x",
+      "url": "https://x.com/gittrend0x",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/GitTrend0x/status/2076987542612959307"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-gorden-sun",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@gorden_sun",
+      "url": "https://x.com/gorden_sun",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/Gorden_Sun/status/2097508341992083824"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-haileyailabs",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@haileyailabs",
+      "url": "https://x.com/haileyailabs",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/HaileyAILabs/status/2105469989776241032"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-huoshan007",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@huoshan007",
+      "url": "https://x.com/huoshan007",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/huoshan007/status/2090268169827144073"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-hxhxhx0916",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@hxhxhx0916",
+      "url": "https://x.com/hxhxhx0916",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/hxhxhx0916/status/2070521092817695063"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-iamcora13",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@iamcora13",
+      "url": "https://x.com/iamcora13",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/iamcora13/status/2081652636353429839"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-ilovek8s",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@ilovek8s",
+      "url": "https://x.com/ilovek8s",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/ilovek8s/status/2098050663842541736"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-indiedevhailey",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@indiedevhailey",
+      "url": "https://x.com/indiedevhailey",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/IndieDevHailey/status/2028376518381256965"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-jayden691688",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@jayden691688",
+      "url": "https://x.com/jayden691688",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/Jayden691688/status/2070652274872086890"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-jboogx-creative",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@jboogx_creative",
+      "url": "https://x.com/jboogx_creative",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/jboogx_creative/status/2104857414256435257"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-josejordandev",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@josejordandev",
+      "url": "https://x.com/josejordandev",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/josejordandev/status/2098367882686001491"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-juliuszepputso",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@juliuszepputso",
+      "url": "https://x.com/juliuszepputso",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/JuliusZepputso/status/2105552319605850262"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-junyi-sun1996",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@junyi_sun1996",
+      "url": "https://x.com/junyi_sun1996",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/junyi_sun1996/status/2094639438836240619"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-king1818888",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@king1818888",
+      "url": "https://x.com/king1818888",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/king1818888/status/2094443914866597977"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-kingao476942",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@kingao476942",
+      "url": "https://x.com/kingao476942",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/KinGao476942/status/2100086793995706689"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-kingofdairyque",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@kingofdairyque",
+      "url": "https://x.com/kingofdairyque",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/kingofdairyque/status/2093279729717780736"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-laihui126",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@laihui126",
+      "url": "https://x.com/laihui126",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/laihui126/status/2070880442870587566"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-leaf-sanren",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@leaf_sanren",
+      "url": "https://x.com/leaf_sanren",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/leaf_sanren/status/2105645639703183753"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-leepinw60875",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@leepinw60875",
+      "url": "https://x.com/leepinw60875",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/LeepinW60875/status/2105810568166900105"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-linxiaobei888",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@linxiaobei888",
+      "url": "https://x.com/linxiaobei888",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/linxiaobei888/status/2100126856934834442"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-liyue-ai",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@liyue_ai",
+      "url": "https://x.com/liyue_ai",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/liyue_ai/status/2105937541732200691"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-ljljljv",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@ljljljv",
+      "url": "https://x.com/ljljljv",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/LJljljV/status/2105750023300698222"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-lonely--mh",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@lonely__mh",
+      "url": "https://x.com/lonely__mh",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/Lonely__MH/status/2105680692655128590"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-misscat-ai",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@misscat_ai",
+      "url": "https://x.com/misscat_ai",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/MissCat_AI/status/2104473940014117210"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-naiknelofar788",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@naiknelofar788",
+      "url": "https://x.com/naiknelofar788",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/Naiknelofar788/status/2092993830220120231"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-nanyuan0412",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@nanyuan0412",
+      "url": "https://x.com/nanyuan0412",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/nanyuan0412/status/2089605715556172012"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-nftcps",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@nftcps",
+      "url": "https://x.com/nftcps",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/NFTCPS/status/2071944564160774287"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-nyx-lumi1221",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@nyx_lumi1221",
+      "url": "https://x.com/nyx_lumi1221",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/Nyx_lumi1221/status/2090673237512364201"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-oops073111",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@oops073111",
+      "url": "https://x.com/oops073111",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/oops073111/status/2081544806841582051"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-penny777",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@penny777",
+      "url": "https://x.com/penny777",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/penny777/status/2104473700800069805"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-pomepome3tarou",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@pomepome3tarou",
+      "url": "https://x.com/pomepome3tarou",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/pomepome3tarou/status/2094108670397448221"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-refinistdev",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@refinistdev",
+      "url": "https://x.com/refinistdev",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/refinistdev/status/2089676450807050485"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-riverai7z",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@riverai7z",
+      "url": "https://x.com/riverai7z",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/RiverAi7z/status/2099411050735301040"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-saccc-c",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@saccc_c",
+      "url": "https://x.com/saccc_c",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/Saccc_c/status/2093949733492695082"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-seekjourney",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@seekjourney",
+      "url": "https://x.com/seekjourney",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/seekjourney/status/2071923169439731936"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-shitunote",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@shitunote",
+      "url": "https://x.com/shitunote",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/shitunote/status/2103094378738888822"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-songguoxiansen",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@songguoxiansen",
+      "url": "https://x.com/songguoxiansen",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/songguoxiansen/status/2092784022040781263"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-sorjaihov3v",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@sorjaihov3v",
+      "url": "https://x.com/sorjaihov3v",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/SorJaiHov3v/status/2099902878458790052"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-tanluai",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@tanluai",
+      "url": "https://x.com/tanluai",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/TanLuAI/status/2105479262438580231"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-toplayerno8",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@toplayerno8",
+      "url": "https://x.com/toplayerno8",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/ToplayerNo8/status/2072148297545076817"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-tsoiiiiioooyeye",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@tsoiiiiioooyeye",
+      "url": "https://x.com/tsoiiiiioooyeye",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/Tsoiiiiioooyeye/status/2094663026918207950"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-tyrion00",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@tyrion00",
+      "url": "https://x.com/tyrion00",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/tyrion00/status/2099789477837521083"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-vettoriglobal",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@vettoriglobal",
+      "url": "https://x.com/vettoriglobal",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/VettoriGlobal/status/2105663148938215649"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-wangzaijuan",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@wangzaijuan",
+      "url": "https://x.com/wangzaijuan",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/wangzaijuan/status/2100119704031658312"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-x-sanjin",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@x_sanjin",
+      "url": "https://x.com/x_sanjin",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/x_sanjin/status/2080906645270646823"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-xiaoerzhan",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@xiaoerzhan",
+      "url": "https://x.com/xiaoerzhan",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/xiaoerzhan/status/2046800363404296327"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-yaohui12138",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@yaohui12138",
+      "url": "https://x.com/yaohui12138",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/yaohui12138/status/2081603375771365463"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-yue57382",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@yue57382",
+      "url": "https://x.com/yue57382",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/yue57382/status/2100137397879239119"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    },
+    {
+      "id": "x-yyyole",
+      "type": "author",
+      "category": "authors-and-posts",
+      "title": "@yyyole",
+      "url": "https://x.com/yyyole",
+      "summary": "原公开影像库直采作者渠道；保留一条原帖出处。",
+      "tags": [
+        "X",
+        "作者",
+        "原帖"
+      ],
+      "provenance": {
+        "type": "previous-public-library",
+        "collection": "direct-public-sources",
+        "referenceUrls": [
+          "https://x.com/yyyole/status/2070444305475571966"
+        ]
+      },
+      "verification": {
+        "status": "saved-reference-not-rechecked",
+        "checkedAt": null,
+        "scope": "Historical direct-public source profile and one approved source post retained; current profile or thread content not rechecked."
+      }
+    }
+  ]
+}
